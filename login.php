@@ -47,7 +47,6 @@ if(isset($_GET['code'])):
             else{
                 echo "Sign up failed!(Something went wrong).";
             }
-            
         }
     }
     else{
